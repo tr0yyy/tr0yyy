@@ -25,7 +25,5 @@ def tr0yyy:
 
 <p align="center"><i>⚡The best way to predict your future... is to create it!⚡</i></p>
 
-<p align="center">⬇⬇ Check my pinned projects below ⬇⬇</p>
----
-
+<h3 align="center">⬇⬇ Check my pinned projects below ⬇⬇</h3>
 
