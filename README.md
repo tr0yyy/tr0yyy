@@ -1,6 +1,6 @@
 <h2> Hi there 👋, welcome to my profile! </h2>
 <h3> Alexandru Nicoi </h3>
-<p><em>Assistent Programmer at <a href="http://www.meteoromania.ro/">Meteorological National Administration, Bucharest, Romania</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Assistent Programmer at <a href="http://www.meteoromania.ro/">Meteorological National Administration, Bucharest, Romania</a>☁️
 </br>Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
 </em></p>
 
