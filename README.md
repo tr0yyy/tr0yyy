@@ -8,7 +8,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/tr0yyy?label=follow&style=social)](https://github.com/tr0yyy)
 
 
-### 🙋 A little more about me...  
+### ℹ️ A little more about me...  
 
 ```python
 def tr0yyy:
