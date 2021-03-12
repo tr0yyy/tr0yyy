@@ -15,10 +15,10 @@ def tr0yyy():
   full_name = 'Alexandru Nicoi'
   age = 20
   email = 'alexandrunicoi@gmail.com'
-  bachelor_degree = 'Computers and Information Technology'
+  bachelor_degree_pursuing = 'Computers and Information Technology'
+  curr_year = '2/4'
   prog_skills = 'c++' + 'python' + 'java' + 'c' + 'sql' + 'matlab' + 'verilog vhdl'
   passions = 'programming' + 'football' + 'history' + 'trips' + 'trains'
-  curr_year = '2/4'
   curr_teaching = 'Programming Techniques'
   past_teaching = ['Procedural Programming', 'Digital Design Logic']
 ```
