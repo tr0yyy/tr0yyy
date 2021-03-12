@@ -11,7 +11,7 @@
 ### ℹ️ A little more about me...  
 
 ```python
-def tr0yyy:
+def tr0yyy():
   full_name = 'Alexandru Nicoi'
   age = 20
   email = 'alexandrunicoi@gmail.com'
