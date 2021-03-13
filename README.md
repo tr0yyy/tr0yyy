@@ -1,4 +1,5 @@
-<h2> Hi there 👋, welcome to my profile! </h2>
+<h2> Hi there 👋</h2>
+<img src="https://i.imgur.com/2c4Loth.gif"></img>
 <h3> Alexandru Nicoi </h3>
 <p><em>Assistent Programmer at <a href="http://www.meteoromania.ro/">Meteorological National Administration, Bucharest, Romania</a>☁️
 </br>Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer Science, University of Bucharest</a>💻
