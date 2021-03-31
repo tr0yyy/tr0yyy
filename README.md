@@ -18,8 +18,8 @@ def tr0yyy():
   email = 'alexandrunicoi@gmail.com'
   bachelor_degree_pursuing = 'Computers and Information Technology'
   curr_year = '2/4'
-  prog_skills = 'c++' + 'python' + 'java' + 'c' + 'sql' + 'matlab' + 'verilog vhdl'
-  passions = 'programming' + 'football' + 'history' + 'trips' + 'trains'
+  prog_skills = 'c++' + 'python' + 'java' + 'c' + 'sql' + 'matlab'
+  passions = 'programming' + 'trains' + 'football' + 'history' + 'trips' 
   curr_teaching = 'Programming Techniques'
   past_teaching = ['Procedural Programming', 'Digital Design Logic']
 ```
