@@ -18,11 +18,11 @@ def tr0yyy():
   age = 20
   email = 'alexandrunicoi@gmail.com'
   bachelor_degree_pursuing = 'Computers and Information Technology'
-  curr_year = '2/4'
+  curr_year = '3/4'
   prog_skills = 'c++' + 'python' + 'java' + 'c' + 'sql' + 'matlab'
   passions = 'programming' + 'trains' + 'football' + 'history' + 'trips' 
-  curr_teaching = 'Programming Techniques'
-  past_teaching = ['Procedural Programming', 'Digital Design Logic']
+  curr_teaching = None
+  past_teaching = ['Procedural Programming', 'Digital Design Logic', 'Programming Techniques']
 ```
 
 <p align="center"><i>⚡The best way to predict your future... is to create it!⚡</i></p>
