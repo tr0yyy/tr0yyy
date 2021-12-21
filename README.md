@@ -16,7 +16,7 @@ Student at <a href="https://fmi.unibuc.ro">Faculty of Mathematics and Computer S
 ```python
 def tr0yyy():
   full_name = 'Alexandru Nicoi'
-  age = 20
+  age = 21
   email = 'alexandrunicoi@gmail.com'
   bachelor_degree_pursuing = 'Computers and Information Technology'
   curr_year = '3/4'
